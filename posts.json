@@ -234,7 +234,7 @@
 }
 ,
 {
-"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"vol"  : "အပိုင္း(2)",
 "title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(2)",
 "cover" : "https://1.bp.blogspot.com/-7UQ0HPGBgBU/XZg5Dj73kXI/AAAAAAAACMQ/rjR2M_Y6XPAO6Eyx_pjU8u91umto6dAUgCLcBGAsYHQ/s600/2.jpg",
 "video" : "https://www.mediafire.com/file/ssklfysiydkzgmg/2.mp4/file",
@@ -242,11 +242,19 @@
 }
 ,
 {
-"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"vol"  : "အပိုင္း(11.A)",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(11.A)",
 "cover" : "https://1.bp.blogspot.com/-RYVXHT57_eg/XZBS-VyZBjI/AAAAAAAAB78/XCHfA4f6yncnwv7u7svZCX0OQDqz4R7egCLcBGAsYHQ/s600/11.jpg",
 "video" : "https://www.mediafire.com/file/bhiv6lj865tdex2/11.A.mp4/file",
  "length" : "21;46"
+}
+,
+{
+"vol"  : "အပိုင္း(11.B)",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(11.B)",
+"cover" : "https://1.bp.blogspot.com/-RYVXHT57_eg/XZBS-VyZBjI/AAAAAAAAB78/XCHfA4f6yncnwv7u7svZCX0OQDqz4R7egCLcBGAsYHQ/s600/11.jpg",
+"video" : "https://www.mediafire.com/file/juk0rg9imqqi80n/11.B.mp4/file",
+ "length" : "18;46"
 }
 ]
 }
