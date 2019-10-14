@@ -578,19 +578,19 @@
 }
 ,
 {
-"vol"  : "အပိုင္း(07)",
-"title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(8)",
-"cover" : "https://1.bp.blogspot.com/-dPi6ZxEOnMo/XaMEncv7E_I/AAAAAAAACVU/dJD1lqGWwF4eRa-KQzhWhe1yK7WA1yR5wCLcBGAsYHQ/s600/7.jpg",
-"video" : "https://www.mediafire.com/file/x1p7utit0gv3i9g/7.mp4/file",
-"length" : "20;49"
-}
-,
-{
 "vol"  : "အပိုင္း(05)",
 "title" : "သခင္မေလးရဲ့ ေခ်ြးမေလာင္း အပိုင္း(5)",
 "cover" : "https://1.bp.blogspot.com/-juUOX589gpM/XaN22k9Up7I/AAAAAAAACVg/0o_v7H_DY7kQ0OjxWq5_niu_FUhxMDkQwCLcBGAsYHQ/s600/cover.jpg",
 "video" : "441861653128445",
 "length" : "24;24"
+}
+,
+{
+"vol"  : "အပိုင္း(08)",
+"title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(8)",
+"cover" : "https://1.bp.blogspot.com/-ddsEKi-XBac/XaRpZzVPNhI/AAAAAAAACXE/VNh_Z9rno_chG-wNtGpf-Q2OrSZ__ecAACLcBGAsYHQ/s600/8.jpg",
+"video" : "http://www.mediafire.com/file/tgm0ujw4zt52tck/8.mp4/file",
+"length" : "22;08"
 }
 ]
 }
