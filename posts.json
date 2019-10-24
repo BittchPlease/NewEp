@@ -1048,13 +1048,13 @@
 "video" : "https://openload.co/f/Ackz2CNJLyM/30.C.mp4",
  "length" : "13;05"
 }
- ,
+,
 {
-"vol"  : "အပိုင္း(30.C)ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(30.C)",
-"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s320/30.jpg",
-"video" : "https://openload.co/f/kYECpnmOSgA/30.B.mp4",
- "length" : "16;18"
+"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  " ႏွလုံးသားထဲက အေဝးကိုမသြားပါနဲ႔ အပိုင္း(46)",
+"cover" : "https://1.bp.blogspot.com/-d70nosyEaAQ/XZtixUuXxlI/AAAAAAAACUo/IAEF4hqoHYAOlioO6AgCJU_GXFptgt7TACLcBGAsYHQ/s600/postcover.jpg",
+"video" : "730632127364185",
+"length" : "21;19"
 }
 ,
 {
@@ -1072,6 +1072,14 @@
 "video" : "810100626088418",
 "length" : "19;42"
 }
+ ,
+{
+"vol"  : "အပိုင္း(30.C)ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(30.C)",
+"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s320/30.jpg",
+"video" : "https://openload.co/f/kYECpnmOSgA/30.B.mp4",
+ "length" : "16;18"
+}
 ,
 {
 "vol"  : "ဇာတ္သိမ္းပိုင္း",
@@ -1079,6 +1087,14 @@
 "cover" : "https://1.bp.blogspot.com/-UuNZcUqohEw/XZmhDBdLzaI/AAAAAAAACNI/UWENduXbUwUljynedDsfHIy_k59vLQ0jQCLcBGAsYHQ/s320/postcover.jpg",
 "video" : "https://openload.co/f/xQnZStsk6z8/end.mp4",
 "length" : "45;38"
+}
+,
+{
+"vol"  : "အပိုင္း(07) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "၀ိညာဥ္တို ့၏ ရန္ျငိဳး ႏွင့္ အရွင္သီ၀ ၏ ဘုန္းတန္ခိုး အပိုင္း(7)",
+"cover" : "https://1.bp.blogspot.com/-yTIdZhiwApU/XbHspwbFOeI/AAAAAAAACno/eNJW9ewob_cdsBt7kDPsqCHQAyTWRNeOgCLcBGAsYHQ/s320/epcover.jpg",
+"video" : "https://openload.co/f/Jv0fyOV603M/7.mp4",
+"length" : "23;03"
 }
 ]
 }
