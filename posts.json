@@ -1114,6 +1114,14 @@
 }
 ,
 {
+"vol"  : "အပိုင္း(09) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  "ကံေစရာအခ်စ္ အပိုင္း(09)",
+"cover" : "https://1.bp.blogspot.com/-L04gKM-GgxM/XaVkz1T-8OI/AAAAAAAACY4/xUhawOw0kh8yUqrasbkqPm-SwIZC6xZgACLcBGAsYHQ/s320/72782882_708599356274888_9068461895157022720_n.jpg",
+"video" : "2366599543658257",
+"length" : "42;58"
+}
+,
+{
 "vol"  : "အပိုင္း(14) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "သခင္မေလးရဲ့ ေခ်ြးမေလာင္း အပိုင္း(14)",
 "cover" : "https://1.bp.blogspot.com/-juUOX589gpM/XaN22k9Up7I/AAAAAAAACVg/0o_v7H_DY7kQ0OjxWq5_niu_FUhxMDkQwCLcBGAsYHQ/s600/cover.jpg",
@@ -1127,6 +1135,22 @@
 "cover" : "https://1.bp.blogspot.com/-ym1Ae0rOinQ/XanfKOR4seI/AAAAAAAACd8/V3LHIrdMRKAATev6qg7ayP7byrxOsuN8gCLcBGAsYHQ/s320/71.jpg",
 "video" : "810829199348894",
 "length" : "30;59"
+}
+   ,
+    {
+    "cover" : "https://1.bp.blogspot.com/-scKec3GyybQ/XanrhGHRfII/AAAAAAAACg4/ZQEOalQkPBAoePID8bePVon-_p6-tmobgCEwYBhgL/s320/59.jpg",
+    "length" : "26;13",
+    "title" : "ေမွာ္မီးခြက္႐ွင္ အာလာဒင္ အပိုင္း (59)",
+    "video" : "518065859051066",
+"vol"  : "အပိုင္း(59) ျမန္မာစာတန္းထိုးပါသည္။"
+  }
+ ,
+{
+"vol"  : "အပိုင္း(10) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  "ကံေစရာအခ်စ္ အပိုင္း(10)",
+"cover" : "https://1.bp.blogspot.com/-L04gKM-GgxM/XaVkz1T-8OI/AAAAAAAACY4/xUhawOw0kh8yUqrasbkqPm-SwIZC6xZgACLcBGAsYHQ/s320/72782882_708599356274888_9068461895157022720_n.jpg",
+"video" : "543058723156511",
+"length" : "39;04"
 }
 ]
 }
