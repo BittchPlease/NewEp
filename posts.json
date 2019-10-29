@@ -1222,7 +1222,7 @@
 "vol"  : "အပိုင္း(18) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(18)",
 "cover" : "https://1.bp.blogspot.com/-FdQKMMhFYH0/Xa6YGEOfpmI/AAAAAAAACjw/hgjzuJBnPAMCigS0Q-HdBcj36-02u9gugCLcBGAsYHQ/s1600/18.jpg",
-"video" : " https://www.mediafire.com/file/85t6zjvahdu4hyj/18.mp4/file",
+"video" : "https://www.mediafire.com/file/85t6zjvahdu4hyj/18.mp4/file",
 "length" : "21;07"
 }
 ,
@@ -1251,7 +1251,7 @@
 }
   ,
 {
-"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"vol"  : "အပိုင္း(34.A) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(34.A)",
 "cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s320/34.jpg",
 "video" : "http://www.mediafire.com/file/z3w3jo5cs9nhcxb/34.A.mp4/file",
@@ -1259,11 +1259,19 @@
 }
    ,
 {
-"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"vol"  : "အပိုင္း(34.B) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(34.B)",
 "cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s320/34.jpg",
 "video" : "http://www.mediafire.com/file/nypxrostx4gjvhq/34.B.mp4/file",
  "length" : "21;47"
+}
+ ,
+{
+"vol"  : "အပိုင္း(19) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(19)",
+"cover" : "https://1.bp.blogspot.com/-dC4J9nvin5U/Xa6YGVDdDAI/AAAAAAAACj0/FnYlboUlALMULyRvNLscLxN-YhhdPJNgwCLcBGAsYHQ/s1600/19.jpg",
+"video" : "http://www.mediafire.com/file/knw29m5lcb7gjok/19.mp4/file",
+"length" : "20;10"
 }
 ]
 }
