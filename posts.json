@@ -1249,13 +1249,21 @@
 "video" : "813911765707304",
 "length" : "30;32"
 }
+  ,
+{
+"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(34.A)",
+"cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s320/34.jpg",
+"video" : "http://www.mediafire.com/file/z3w3jo5cs9nhcxb/34.A.mp4/file",
+ "length" : "22;28"
+}
    ,
 {
-"vol"  : "အပိုင္း(34) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(34)",
+"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(34.B)",
 "cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s320/34.jpg",
-"video" : "406004953627100",
- "length" : "44;16"
+"video" : "http://www.mediafire.com/file/nypxrostx4gjvhq/34.B.mp4/file",
+ "length" : "21;47"
 }
 ]
 }
