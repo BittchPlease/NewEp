@@ -1323,11 +1323,19 @@
 }
    ,
 {
-"vol"  : "အပိုင္း(36) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(36)",
+"vol"  : "အပိုင္း(36.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(36.A)",
 "cover" : "https://1.bp.blogspot.com/-6-sxr5abPEI/Xbg_98x06rI/AAAAAAAACu4/CV9uewRrH28_Z8HHDzLeKSPrRIJ_mc6aACLcBGAsYHQ/s800/36.jpg",
-"video" : "2270182396605765",
- "length" : "43;53"
+"video" : "http://www.mediafire.com/file/9w7z8bjum9a7m67/36.A.mp4/file",
+ "length" : "21;39"
+}
+   ,
+{
+"vol"  : "အပိုင္း(36.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(36.B)",
+"cover" : "https://1.bp.blogspot.com/-6-sxr5abPEI/Xbg_98x06rI/AAAAAAAACu4/CV9uewRrH28_Z8HHDzLeKSPrRIJ_mc6aACLcBGAsYHQ/s800/36.jpg",
+"video" : "http://www.mediafire.com/file/r4931gl7xpq1czx/36.B.mp4/file",
+ "length" : "22;34"
 }
 ]
 }
