@@ -1371,11 +1371,19 @@
 }
    ,
 {
-"vol"  : "အပိုင္း(37) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(37)",
+"vol"  : "အပိုင္း(37.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(37.A)",
 "cover" : "https://1.bp.blogspot.com/-HE7k4kPnvHM/Xbg__N1MRxI/AAAAAAAACvA/y-LWWqKGnc4ZC6c3YttZEpN_lN9knYK1QCLcBGAsYHQ/s800/37.jpg",
-"video" : "479905056065154",
- "length" : "37;47"
+"video" : "http://www.mediafire.com/file/43z8jmaihgavxof/37.A.mp4/file",
+ "length" : "15;10"
+}
+   ,
+{
+"vol"  : "အပိုင္း(37.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(37.B)",
+"cover" : "https://1.bp.blogspot.com/-HE7k4kPnvHM/Xbg__N1MRxI/AAAAAAAACvA/y-LWWqKGnc4ZC6c3YttZEpN_lN9knYK1QCLcBGAsYHQ/s800/37.jpg",
+"video" : "http://www.mediafire.com/file/05iju2zqpteratr/37.B.mp4/file",
+ "length" : "22;37"
 }
 ]
 }
