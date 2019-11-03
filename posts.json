@@ -1465,14 +1465,7 @@
 "video" : "https://www.mediafire.com/file/htjrnk361qh5obc/39.A.mp4/file",
  "length" : "19;25"
 }
- ,
-{
-"vol"  : "အပိုင္း(01) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ေကာရွကီ အပိုင္း(01)",
-"cover" : "https://data1.ibtimes.co.in/cache-img-0-450/en/full/686597/1524575518_kaushiki-rannvijay-singha-sayani-gupta.jpg",
-"video" : "http://www.mediafire.com/file/cox1mntb2u97hek/EP.1.mp4/file",
- "length" : "23;05"
-}
+
   ,
 {
 "vol"  : "အပိုင္း(39.B) ျမန္မာစာတန္းထိုးပါသည္။",
@@ -1488,6 +1481,14 @@
 "cover" : "https://1.bp.blogspot.com/-4UJSxzzoB5k/Xb8bD2r9P6I/AAAAAAAAC1A/3QHBPn3E6AwtN2AakLArmuQba4WCsCdoQCLcBGAsYHQ/s320/98.jpg",
 "video" : "818689851896162",
 "length" : "19;28"
+}
+   ,
+{
+"vol"  : "အပိုင္း(01) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ေကာရွကီ အပိုင္း(01)",
+"cover" : "https://data1.ibtimes.co.in/cache-img-0-450/en/full/686597/1524575518_kaushiki-rannvijay-singha-sayani-gupta.jpg",
+"video" : "http://www.mediafire.com/file/cox1mntb2u97hek/EP.1.mp4/file",
+ "length" : "23;05"
 }
 ]
 }
