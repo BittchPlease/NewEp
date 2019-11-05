@@ -1493,7 +1493,7 @@
    ,
 {
 "vol"  : "အပိုင္း(01) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ေကာရွကီ အပိုင္း(01)",
+"title" : "ေကာ္ရွကီ အပိုင္း(01)",
 "cover" : "https://data1.ibtimes.co.in/cache-img-0-450/en/full/686597/1524575518_kaushiki-rannvijay-singha-sayani-gupta.jpg",
 "video" : "http://www.mediafire.com/file/cox1mntb2u97hek/EP.1.mp4/file",
  "length" : "23;05"
@@ -1573,10 +1573,18 @@
    ,
 {
 "vol"  : "အပိုင္း(02) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ေကာရွကီ အပိုင္း(02)",
+"title" : "ေကာ္ရွကီ အပိုင္း(02)",
 "cover" : "https://data1.ibtimes.co.in/cache-img-0-450/en/full/686597/1524575518_kaushiki-rannvijay-singha-sayani-gupta.jpg",
 "video" : "http://www.mediafire.com/file/sm6oztwbttsbua2/EP.2.mp4/file",
  "length" : "21;52"
+}
+    ,
+{
+"vol"  : "အပိုင္း(41.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(41.A)",
+"cover" : "https://1.bp.blogspot.com/-8uzf8AtDAQQ/XbhABlW6MYI/AAAAAAAACvQ/N9bS_Ij5yGcAacjYHC1v6jHL_807czX1gCLcBGAsYHQ/s800/41.jpg",
+"video" : "https://www.mediafire.com/file/2im96kkh1kpis65/41.A.mp4/file",
+ "length" : "21;54"
 }
 ]
 }
