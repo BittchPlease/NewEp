@@ -1810,5 +1810,21 @@
 "video" : "http://www.mediafire.com/file/6rlsddu9vizpwxv/36.mp4/file",
 "length" : "21;39"
 }
+   ,
+{
+"vol"  : "အပိုင္း(44.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(44.A)",
+"cover" : "https://1.bp.blogspot.com/-Lms8kpjqJgU/XbhADuQ_PXI/AAAAAAAACvc/nNUhd2AiQJgS1GzjD3IHn-sl0A5ae2C1gCLcBGAsYHQ/s800/44.jpg",
+"video" : "https://www.mediafire.com/file/tygihj5eow6ag7j/44.A.mp4/file",
+ "length" : "21;37"
+}
+    ,
+{
+"vol"  : "အပိုင္း(44.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(44.B)",
+"cover" : "https://1.bp.blogspot.com/-Lms8kpjqJgU/XbhADuQ_PXI/AAAAAAAACvc/nNUhd2AiQJgS1GzjD3IHn-sl0A5ae2C1gCLcBGAsYHQ/s800/44.jpg",
+"video" : "https://www.mediafire.com/file/juaubx9fx8n6zl8/44.B.mp4/file",
+ "length" : "21;52"
+}
 ]
 }
