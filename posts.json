@@ -1830,7 +1830,7 @@
 {
 "title" : "ေကာ္ရွကီ အပိုင္း(05)",
 "vol"  : "အပိုင္း(05) ျမန္မာစာတန္းထိုးပါသည္။",
-"cover"  :  "https://1.bp.blogspot.com/-IZbxTY-40ek/XcPmGVVBW9I/AAAAAAAAC5E/fLolY9z-3hcPzfWonDKd0nFBlbe2UwrIQCLcBGAsYHQ/s320/05.jpg",
+"cover"  :  "https://1.bp.blogspot.com/-IZbxTY-40ek/XcPmGVVBW9I/AAAAAAAAC5E/fLolY9z-3hcPzfWonDKd0nFBlbe2UwrIQCLcBGAsYHQ/s600/05.jpg",
 "video" : "http://www.mediafire.com/file/0btflijpt9n69y2/EP.5.mp4/file",
 "length" : "21;54"
 }
@@ -1846,9 +1846,49 @@
 {
 "title" : "ရဲရဲေတာက္သစၥာ႐ွင္ ဇာတ္သိမ္းပိုင္း)",
 "vol" : "ဇာတ္သိမ္းပိုင္း ျမန္မာစာတန္းထိုးပါသည္။",
-"cover" : "https://1.bp.blogspot.com/-GNKTQ1aUats/Xb8bCeVHRuI/AAAAAAAAC0w/_0Rjjk257bohDtTuc379S-doTQQKNAJcwCLcBGAsYHQ/s320/110.jpg",
+"cover" : "https://1.bp.blogspot.com/-GNKTQ1aUats/Xb8bCeVHRuI/AAAAAAAAC0w/_0Rjjk257bohDtTuc379S-doTQQKNAJcwCLcBGAsYHQ/s600/110.jpg",
 "video" : "https://www.mediafire.com/file/xvnmqne7vfn12bf/110.mp4/file",
 "length" : "20;33"
+}
+    ,
+{
+"vol"  : "အပိုင္း(27) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(27)",
+"cover" : "https://1.bp.blogspot.com/-7jVuyA8UQD8/Xb2Sparu1II/AAAAAAAACzk/XqevvgymAagXGwU8eZwgeMzAYdewQUYYQCLcBGAsYHQ/s600/27.jpg",
+"video" : "https://www.mediafire.com/file/yh8nzqgbxafwkol/27.mp4/file",
+"length" : "20;38"
+}
+    ,
+{
+"vol"  : "အပိုင္း(55) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  " ႏွလုံးသားထဲက အေဝးကိုမသြားပါနဲ႔ အပိုင္း(55)",
+"cover" : "https://1.bp.blogspot.com/-d70nosyEaAQ/XZtixUuXxlI/AAAAAAAACUo/IAEF4hqoHYAOlioO6AgCJU_GXFptgt7TACLcBGAsYHQ/s600/postcover.jpg",
+"video" : "2499775713574669",
+"length" : "21;08"
+}
+   ,
+{
+"vol"  : "အပိုင္း(20) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  "ကံေစရာအခ်စ္ အပိုင္း(20)",
+"cover" : "https://1.bp.blogspot.com/-L04gKM-GgxM/XaVkz1T-8OI/AAAAAAAACY4/xUhawOw0kh8yUqrasbkqPm-SwIZC6xZgACLcBGAsYHQ/s600/72782882_708599356274888_9068461895157022720_n.jpg",
+"video" : "2335453926768596",
+"length" : "39;55"
+}
+,
+{
+"title" : "အၾကင္နာကလဲ့စား အပိုင္း(02)",
+"vol"  : "အပိုင္း(02) ျမန္မာစာတန္းထိုးပါသည္။",
+"cover"  :  "https://1.bp.blogspot.com/-EOopWQvAxmY/XcTa_XtvCeI/AAAAAAAAC6k/eF9wN5QfvlwKlFZatlb98SfWxhOjWZkdQCLcBGAsYHQ/s600/2.jpg",
+"video" : "http://www.mediafire.com/file/st6pkatygk2igmw/ep.2.mp4/file",
+"length" : "19;00"
+}
+,
+{
+"title" : "ေကာ္ရွကီ အပိုင္း(06)",
+"vol"  : "အပိုင္း(06) ျမန္မာစာတန္းထိုးပါသည္။",
+"cover"  :  "https://1.bp.blogspot.com/-NKGkgOWUo3I/XcPmGoSx3GI/AAAAAAAAC5I/B7TL-qnRdl4GWLx58mxP9Ef9E8-uehfNgCLcBGAsYHQ/s600/06.jpg",
+"video" : "http://www.mediafire.com/file/0eibm93dx58vtp6/EP.6.mp4/file",
+"length" : "22;47"
 }
 ]
 }
