@@ -1898,14 +1898,6 @@
 "video" : "http://www.mediafire.com/file/6vdh6fsvus3sfp0/28.mp4/file",
 "length" : "20;39"
 }
-     ,
-{
-"vol"  : "အပိုင္း(45) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(45)",
-"cover" : "https://1.bp.blogspot.com/-cZXfOunQ5Q4/XbhADxbS9cI/AAAAAAAACvg/laVAfllw4g4XsdEfOiFA_ZGoX_pdrVc2QCLcBGAsYHQ/s800/45.jpgg",
-"video" : "190352245457286",
- "length" : "45;32"
-}
   ,
 {
 "vol"  : "အပိုင္း(29) ျမန္မာစာတန္းထိုးပါသည္။",
@@ -1921,6 +1913,14 @@
 "cover"  :  "https://1.bp.blogspot.com/-nU8LWtqx7EE/XcPmHCQgTqI/AAAAAAAAC5M/2ygeAltPldA3uaaqttbxCVoBxELV5fMJwCLcBGAsYHQ/s320/07.jpg",
 "video" : "http://www.mediafire.com/file/f7ph5zaacuz6qen/EP.7.mp4/file",
 "length" : "22;31"
+}
+      ,
+{
+"vol"  : "အပိုင္း(45) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(45)",
+"cover" : "https://1.bp.blogspot.com/-cZXfOunQ5Q4/XbhADxbS9cI/AAAAAAAACvg/laVAfllw4g4XsdEfOiFA_ZGoX_pdrVc2QCLcBGAsYHQ/s800/45.jpgg",
+"video" : "190352245457286",
+ "length" : "45;32"
 }
 ]
 }
