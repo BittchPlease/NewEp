@@ -2218,13 +2218,21 @@
 "video" : "http://www.mediafire.com/file/cnv89egq8cx4m0o/ep.8.mp4/file",
 "length" : "20;03"
 }
-,
+   ,
 {
-"title" : "မွတ္ညာဏ္ဝကၤပါ အပိုင္း(01)",
-"vol"  : "အပိုင္း(01) ျမန္မာစာတန္းထိုးပါသည္။",
-"cover"  :  "https://1.bp.blogspot.com/-JUzVC8rikK8/Xcwg3o26iwI/AAAAAAAADCs/j6yTMFhfJngOL_Q8DvL7lBK_zFDeTsyyACLcBGAsYHQ/s320/01.jpg",
-"video" : "http://www.mediafire.com/file/ch9p1dhg8vgnzyj/01.mp4/file",
-"length" : "24;32"
+"vol"  : "အပိုင္း(41) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(41)",
+"cover" : "https://1.bp.blogspot.com/-cvKBWZRnb-I/XchyT1fYuWI/AAAAAAAAC_E/HfyAVX5RcA82Z9sWnkjpY06R4CXTUYOOwCLcBGAsYHQ/s800/41.jpg",
+"video" : "http://www.mediafire.com/file/o5n03y1x19g9wfu/41.mp4/file",
+"length" : "21;22"
+}
+   ,
+{
+"vol"  : "အပိုင္း(42) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(42)",
+"cover" : "https://1.bp.blogspot.com/-oItUkt6-YOs/XchyUXlBKRI/AAAAAAAAC_I/sRwQAYeJmnAugZ8WKuAtSElmbQ-IV13FwCLcBGAsYHQ/s800/42.jpg",
+"video" : "http://www.mediafire.com/file/cjleppctp2iokhb/42.mp4/file",
+"length" : "21;17"
 }
      ,
 {
@@ -2233,6 +2241,14 @@
 "cover" : "https://1.bp.blogspot.com/-WxYFm2SJPBg/XbhAGq1kp-I/AAAAAAAACvw/Yk4_x8rSCsExAt8vDbEjmIsERuf1ODD7ACLcBGAsYHQ/s800/49.jpg",
 "video" : "https://www.mediafire.com/file/qaptgxba08bcxe4/49.B.mp4/file",
  "length" : "22;23"
+}
+,
+{
+"title" : "မွတ္ညာဏ္ဝကၤပါ အပိုင္း(01)",
+"vol"  : "အပိုင္း(01) ျမန္မာစာတန္းထိုးပါသည္။",
+"cover"  :  "https://1.bp.blogspot.com/-JUzVC8rikK8/Xcwg3o26iwI/AAAAAAAADCs/j6yTMFhfJngOL_Q8DvL7lBK_zFDeTsyyACLcBGAsYHQ/s320/01.jpg",
+"video" : "http://www.mediafire.com/file/ch9p1dhg8vgnzyj/01.mp4/file",
+"length" : "24;32"
 }
 ]
 }
