@@ -2354,14 +2354,6 @@
 "video" : "http://www.mediafire.com/file/bk5wrdyz2xp089b/3.A.mp4/file",
 "length" : "20;51"
 }
-,
-{
-"vol"  : "အပိုင္း(3.B) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "စုန္းမ အပိုင္း(3.B)",
-"cover" : "https://1.bp.blogspot.com/-TK_QqP-_V9M/Xc6ku8CbshI/AAAAAAAADFQ/jS_YrfYisSYNClqwlrrzlN0gWBwChPpNgCLcBGAsYHQ/s800/03.jpg",
-"video" : "https://www.mediafire.com/file/e3t4tbhhlbr996n/3.B.mp4/file",
-"length" : "22;42"
-}
      ,
 {
 "vol"  : "အပိုင္း(51.A) ျမန္မာစာတန္းထိုးပါသည္။",
@@ -2370,7 +2362,23 @@
 "video" : "https://www.mediafire.com/file/beakp2t3debnmn6/51.A.mp4/file",
  "length" : "20;18"
 }
-     ,
+,
+{
+"vol"  : "အပိုင္း(06) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ေဝဒနာအိမ္ အပိုင္း(06)",
+"cover" : "https://1.bp.blogspot.com/-2s5gFEfOni0/XchrswvZOoI/AAAAAAAAC9s/0vlSLYZBkKociNWB6McHrKLEmSQIvwN9QCLcBGAsYHQ/s320/06.jpg",
+"video" : "https://www.mediafire.com/file/n6jc2c4321q56ne/06.mp4/file",
+"length" : "22;09"
+}
+,
+{
+"vol"  : "အပိုင္း(3.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "စုန္းမ အပိုင္း(3.B)",
+"cover" : "https://1.bp.blogspot.com/-TK_QqP-_V9M/Xc6ku8CbshI/AAAAAAAADFQ/jS_YrfYisSYNClqwlrrzlN0gWBwChPpNgCLcBGAsYHQ/s800/03.jpg",
+"video" : "https://www.mediafire.com/file/e3t4tbhhlbr996n/3.B.mp4/file",
+"length" : "22;42"
+}
+       ,
 {
 "vol"  : "အပိုင္း(51.B) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(51.B)",
