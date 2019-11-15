@@ -2378,13 +2378,69 @@
 "video" : "https://www.mediafire.com/file/e3t4tbhhlbr996n/3.B.mp4/file",
 "length" : "22;42"
 }
-       ,
+   ,
+{
+"vol"  : "အပိုင္း(61) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  " ႏွလုံးသားထဲက အေဝးကိုမသြားပါနဲ႔ အပိုင္း(61)",
+"cover" : "https://1.bp.blogspot.com/-d70nosyEaAQ/XZtixUuXxlI/AAAAAAAACUo/IAEF4hqoHYAOlioO6AgCJU_GXFptgt7TACLcBGAsYHQ/s600/postcover.jpg",
+"video" : "2644360235660289",
+"length" : "21;10"
+}
+   ,
+{
+"vol"  : "အပိုင္း(24) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  "ကံေစရာအခ်စ္ အပိုင္း(24)",
+"cover" : "https://1.bp.blogspot.com/-L04gKM-GgxM/XaVkz1T-8OI/AAAAAAAACY4/xUhawOw0kh8yUqrasbkqPm-SwIZC6xZgACLcBGAsYHQ/s320/72782882_708599356274888_9068461895157022720_n.jpg",
+"video" : "574822713256184",
+"length" : "44;04"
+}
+,
+{
+"title" : "ေကာ္ရွကီ ဇာတ္သိမ္းပိုင္း",
+"vol" : "ဇာတ္သိမ္းပိုင္း ျမန္မာစာတန္းထိုးပါသည္။",
+"cover"  :  "https://1.bp.blogspot.com/-eAp3AmSdUr4/XcPmIxxTn9I/AAAAAAAAC5k/bzkaqOSX9WspMhAC0KZQ7AA4yiUX8Xa0wCLcBGAsYHQ/s320/13.jpg",
+"video" : "http://www.mediafire.com/file/jczjzgg2e25eviq/EP.13.mp4/file",
+"length" : "22;44"
+}
+,
+{
+"title" : "မွတ္ညာဏ္ဝကၤပါ အပိုင္း(03)",
+"vol"  : "အပိုင္း(03) ျမန္မာစာတန္းထိုးပါသည္။",
+"cover"  :  "https://1.bp.blogspot.com/-lqSccVG8CRA/Xcwg2_K2ExI/AAAAAAAADCk/583tDQwHfzcquYWuywpe444dOBGMUQG6gCLcBGAsYHQ/s320/03.jpg",
+"video" : "http://www.mediafire.com/file/4g5be5mthc23zc8/03.mp4/file",
+"length" : "17;30"
+}
+,
+{
+"title" : "အၾကင္နာကလဲ့စား အပိုင္း(09)",
+"vol"  : "အပိုင္း(09) ျမန္မာစာတန္းထိုးပါသည္။",
+"cover"  :  "https://1.bp.blogspot.com/-ZnmQDjUqby0/XcTbECsaVOI/AAAAAAAAC7E/DOrEZsocbF4QhOCrvMRKaHRnq_ePG1j7QCLcBGAsYHQ/s320/9.jpg",
+"video" : "https://www.mediafire.com/file/70szoswoln9e7t3/ep.9.mp4/file",
+"length" : "22;58"
+}
+ ,
+{
+"vol"  : "အပိုင္း(4.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "စုန္းမ အပိုင္း(4.A)",
+"cover" : "https://1.bp.blogspot.com/-MNr64_U2u8Q/Xc6kuqKl2hI/AAAAAAAADFM/bg74cUeQQYkxYI9u0nKntL_P2AYzzzciACLcBGAsYHQ/s800/04.jpg",
+"video" : "https://www.mediafire.com/file/w747rjqa9x46x0l/4.A.mp4/file",
+"length" : "19;22"
+}
+         ,
 {
 "vol"  : "အပိုင္း(51.B) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(51.B)",
 "cover" : "https://1.bp.blogspot.com/-f3ixefp8Jrk/Xc6mEADvsLI/AAAAAAAADFg/x7chLmX4eQUq9djmUKClKqbvYWtAk-VAACLcBGAsYHQ/s800/51.jpg",
 "video" : "https://www.mediafire.com/file/rduadckq1xw8eeo/51.B.mp4/file",
  "length" : "26;07"
+}
+,
+{
+"vol"  : "အပိုင္း(4.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "စုန္းမ အပိုင္း(4.B)",
+"cover" : "https://1.bp.blogspot.com/-MNr64_U2u8Q/Xc6kuqKl2hI/AAAAAAAADFM/bg74cUeQQYkxYI9u0nKntL_P2AYzzzciACLcBGAsYHQ/s800/04.jpg",
+"video" : "https://www.mediafire.com/file/h1kow066rrpny43/4.B.mp4/file",
+"length" : "23;51"
 }
 ]
 }
