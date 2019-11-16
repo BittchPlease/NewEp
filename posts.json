@@ -2458,5 +2458,21 @@
 "video" : "https://www.mediafire.com/file/k1qhtyhjhc1nr8w/49.mp4/file",
 "length" : "21;32"
 }
+     ,
+{
+"vol"  : "အပိုင္း(52.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(52.A)",
+"cover" : "https://1.bp.blogspot.com/-Wc6W6THOq0o/Xc6mElK_AkI/AAAAAAAADFo/KCOUC1Pip9MISwPje4kZlexLV0VPgtdWACLcBGAsYHQ/s800/52.jpg",
+"video" : "https://www.mediafire.com/file/udmwdbintlg1mdq/52.A.mp4/file",
+ "length" : "25;08"
+}
+     ,
+{
+"vol"  : "အပိုင္း(52.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(52.B)",
+"cover" : "https://1.bp.blogspot.com/-Wc6W6THOq0o/Xc6mElK_AkI/AAAAAAAADFo/KCOUC1Pip9MISwPje4kZlexLV0VPgtdWACLcBGAsYHQ/s800/52.jpg",
+"video" : "https://www.mediafire.com/file/cpeoqau8rnwce4p/52.B.mp4/file",
+ "length" : "23;52"
+}
 ]
 }
