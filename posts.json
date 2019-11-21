@@ -2834,5 +2834,21 @@
 "video" : "http://www.mediafire.com/file/wq0j4thskmysjmj/68.mp4/file",
 "length" : "20;32"
 }
+   ,
+{
+"vol"  : "အပိုင္း(28) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  "ကံေစရာအခ်စ္ အပိုင္း(28)",
+"cover" : "https://1.bp.blogspot.com/-L04gKM-GgxM/XaVkz1T-8OI/AAAAAAAACY4/xUhawOw0kh8yUqrasbkqPm-SwIZC6xZgACLcBGAsYHQ/s320/72782882_708599356274888_9068461895157022720_n.jpg",
+"video" : "https://www.mediafire.com/file/o1qikpda4xwir5n/28.mp4/file",
+"length" : "41;20"
+}
+,
+{
+"title" : "မွတ္ညာဏ္ဝကၤပါ အပိုင္း(08)",
+"vol"  : "အပိုင္း(08) ျမန္မာစာတန္းထိုးပါသည္။",
+"cover"  :  "https://1.bp.blogspot.com/-FYsqnxaasAI/Xcwg5XM83qI/AAAAAAAADDA/aZtjbUWXLZEVpGzAq9wbADsPgHb4-RU5gCLcBGAsYHQ/s320/08.jpg",
+"video" : "http://www.mediafire.com/file/ar7uxzvzg9lt9rc/08.mp4/file",
+"length" : "24;00"
+}
 ]
 }
