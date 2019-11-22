@@ -2917,10 +2917,18 @@
 ,
 {
 "title" : "မွတ္ညာဏ္ဝကၤပါ အပိုင္း(10)",
-"vol" : "ျမန္မာစာတန္းထိုးပါသည္။",
+"vol"  : "အပိုင္း(10) ျမန္မာစာတန္းထိုးပါသည္။",
 "cover"  :  "https://1.bp.blogspot.com/-y-zR5851ubQ/Xcwg57O-OZI/AAAAAAAADDI/b6JPYIR6cC45ntOV0EkBThMBqOqWbf6_gCLcBGAsYHQ/s320/10.jpg",
 "video" : "http://www.mediafire.com/file/ry9ddjovm9mokm8/10.mp4/file",
 "length" : "18;26"
+}
+                  ,
+{
+"vol"  : "အပိုင္း(80) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ျဖဴစင္ႏွလံုးသား အပိုင္း(80)",
+"cover" : "https://1.bp.blogspot.com/-P32bJf8irEs/XZD_hBmtYlI/AAAAAAAAB-Y/k2528AJYpHUYmD8y28hpBuLi0ZuvOkzWgCLcBGAsYHQ/s480/cover.jpg",
+"video" : "http://www.mediafire.com/file/frdw6nxft97208c/80.mp4/file",
+"length" : "21;57"
 }
 ]
 }
