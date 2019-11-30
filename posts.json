@@ -3388,11 +3388,27 @@
 }
 ,
 {
+"vol"  : "အပိုင္း(66.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(66.A)",
+"cover" : "https://1.bp.blogspot.com/-jEmAL9W-258/Xdvgn-bUtpI/AAAAAAAADTE/N5Zw_-IKxlcPffRmYksw4fAmsUU5jv16wCLcBGAsYHQ/s800/66.jpg",
+"video" : "https://www.mediafire.com/file/czusepoqsonehde/66.A.mp4/file",
+ "length" : "21;36"
+}
+,
+{
 "vol"  : "အပိုင္း(19.B) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "စုန္းမ အပိုင္း(19.B)",
 "cover" : "https://1.bp.blogspot.com/-MNL74BRgZ_c/XeKecJBLRLI/AAAAAAAADW8/UTiDq33qxKI6vc-593eMWbkO_6C66biiwCLcBGAsYHQ/s320/19.jpg",
 "video" : "https://www.mediafire.com/file/ogldl5jye55rv6y/19.B.mp4/file",
 "length" : "19;50"
+}
+,
+{
+"vol"  : "အပိုင္း(66.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(66.B)",
+"cover" : "https://1.bp.blogspot.com/-jEmAL9W-258/Xdvgn-bUtpI/AAAAAAAADTE/N5Zw_-IKxlcPffRmYksw4fAmsUU5jv16wCLcBGAsYHQ/s800/66.jpg",
+"video" : "https://www.mediafire.com/file/wil5pb2xgwqlf38/66.B.mp4/file",
+ "length" : "22;41"
 }
 ]
 }
