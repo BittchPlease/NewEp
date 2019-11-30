@@ -3420,11 +3420,19 @@
 }
 ,
 {
-"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"vol"  : "အပိုင္း(100) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "မျပယ္ေသာက်ိန္စာ အပိုင္း(100)",
 "cover" : "https://1.bp.blogspot.com/-zQSJyH72K7Q/Xdqab4sETWI/AAAAAAAADQc/hFyBbtvw2CUITo2VT5oElNhLNTSuuc6ugCLcBGAsYHQ/s320/100.jpg",
 "video" : "https://www.mediafire.com/file/7v3nj5sqyw5g8s8/100.mp4/file",
 "length" : "20;38"
+}
+ ,
+{
+"vol"  : "အပိုင္း(01) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "လက္မထပ္ခ်င္တဲ့ မဂၤလာစံုတြဲ အပိုင္း(01)",
+"cover" : "https://1.bp.blogspot.com/-ZSnGvnKgQEk/XeK-kMif-ZI/AAAAAAAADXI/TTeE0ZZcaLwyfL2YAMPnkMba87eyNFengCLcBGAsYHQ/s320/01.jpg",
+"video" : "https://www.mediafire.com/file/umrinwubjvdu3a6/1.mp4/file",
+"length" : "13;55"
 }
 ]
 }
