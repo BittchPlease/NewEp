@@ -3530,5 +3530,21 @@
 "video" : "https://www.mediafire.com/file/q7481p3kgkmyg6s/68.B.mp4/file",
  "length" : "22;19"
 }
+,
+{
+"vol"  : "အပိုင္း(22.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "စုန္းမ အပိုင္း(22.A)",
+"cover" : "https://1.bp.blogspot.com/-eYuQXOANbd4/XeZkI_KbEjI/AAAAAAAADZc/APTB5l2EhKQCEu-CbOLF5_lTTOOQ2mPGwCLcBGAsYHQ/s320/22.jpg",
+"video" : "https://www.mediafire.com/file/kz6h4ip28u5psi9/22.A.mp4/file",
+"length" : "23;44"
+}
+,
+{
+"vol"  : "အပိုင္း(22.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "စုန္းမ အပိုင္း(22.B)",
+"cover" : "https://1.bp.blogspot.com/-eYuQXOANbd4/XeZkI_KbEjI/AAAAAAAADZc/APTB5l2EhKQCEu-CbOLF5_lTTOOQ2mPGwCLcBGAsYHQ/s320/22.jpg",
+"video" : "https://www.mediafire.com/file/i38an0xl1tmjwqw/22.B.mp4/file",
+"length" : "20;27"
+}
 ]
 }
