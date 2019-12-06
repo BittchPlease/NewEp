@@ -3738,5 +3738,21 @@
 "video" : "http://www.mediafire.com/file/x1yt3yucgvhhihq/106.mp4/file",
 "length" : "20;37"
 }
+    ,
+{
+"vol"  : "အပိုင္း(71.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(71.A)",
+"cover" : "https://1.bp.blogspot.com/-5yGUSzWA28k/XepYk1ZZxBI/AAAAAAAADgE/JILguu_1I3ACegW84Z-FEfCSfdp5n6knwCLcBGAsYHQ/s800/71.jpg",
+"video" : "https://www.mediafire.com/file/bw34h5gik9507ip/71.A.mp4/file",
+ "length" : "22;30"
+}
+     ,
+{
+"vol"  : "အပိုင္း(71.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(71.B)",
+"cover" : "https://1.bp.blogspot.com/-5yGUSzWA28k/XepYk1ZZxBI/AAAAAAAADgE/JILguu_1I3ACegW84Z-FEfCSfdp5n6knwCLcBGAsYHQ/s800/71.jpg",
+"video" : "https://www.mediafire.com/file/19fz0mog1gpb127/71.B.mp4/file",
+ "length" : "22;51"
+}
 ]
 }
