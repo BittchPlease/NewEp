@@ -4029,11 +4029,27 @@
 }
     ,
 {
+"vol"  : "အပိုင္း(39) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  "ကံေစရာအခ်စ္ အပိုင္း(39)",
+"cover" : "https://1.bp.blogspot.com/-L04gKM-GgxM/XaVkz1T-8OI/AAAAAAAACY4/xUhawOw0kh8yUqrasbkqPm-SwIZC6xZgACLcBGAsYHQ/s320/72782882_708599356274888_9068461895157022720_n.jpg",
+"video" : "https://www.mediafire.com/file/qddpy8j9kd6avpg/39.mp4/file",
+"length" : "38;22"
+}
+    ,
+{
 "vol"  : "အပိုင္း(76.A) ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(76.A)",
 "cover" : "https://1.bp.blogspot.com/-jozdDbVT7QE/XepYoOhLV8I/AAAAAAAADgY/oT9fFrvGqwI_7xT2lFvrwG6LAC9paXhHQCLcBGAsYHQ/s320/76.jpg",
 "video" : "http://www.mediafire.com/file/3qt3zszbsj08w7j/76.A.mp4/file",
  "length" : "21;36"
+}
+    ,
+{
+"vol"  : "အပိုင္း(40) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" :  "ကံေစရာအခ်စ္ အပိုင္း(40)",
+"cover" : "https://1.bp.blogspot.com/-L04gKM-GgxM/XaVkz1T-8OI/AAAAAAAACY4/xUhawOw0kh8yUqrasbkqPm-SwIZC6xZgACLcBGAsYHQ/s320/72782882_708599356274888_9068461895157022720_n.jpg",
+"video" : "https://www.mediafire.com/file/3e5synd2j109yg7/40.mp4/file",
+"length" : "39;19"
 }
      ,
 {
@@ -4042,6 +4058,14 @@
 "cover" : "https://1.bp.blogspot.com/-jozdDbVT7QE/XepYoOhLV8I/AAAAAAAADgY/oT9fFrvGqwI_7xT2lFvrwG6LAC9paXhHQCLcBGAsYHQ/s320/76.jpg",
 "video" : "http://www.mediafire.com/file/jug195p7ctjsx5y/76.B.mp4/file",
  "length" : "21;56"
+}
+,
+{
+"vol"  : "အပိုင္း(06) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "မဟာကာလီ အပိုင္း(06)",
+"cover" : "https://1.bp.blogspot.com/-VAG3nAFbw8o/Xe0gOI6hq0I/AAAAAAAADiY/LFYzkW_tHkYQ1SCxouLWFrqX7LwfJmhTQCLcBGAsYHQ/s320/6.jpg",
+"video" : "http://www.mediafire.com/file/ulwkoszelgls238/06.mp4/file",
+"length" : "42;35"
 }
 ]
 }
