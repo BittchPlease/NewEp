@@ -4067,5 +4067,21 @@
 "video" : "http://www.mediafire.com/file/ulwkoszelgls238/06.mp4/file",
 "length" : "42;35"
 }
+    ,
+{
+"vol"  : "အပိုင္း(77.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(77.A)",
+"cover" : "https://1.bp.blogspot.com/-uHOa0utx0WY/XepYoJAwFRI/AAAAAAAADgc/Od8D-RILa8gmBNXiWTvwkv2kOtxqZHoZACLcBGAsYHQ/s320/77.jpg",
+"video" : "https://www.mediafire.com/file/42rstfexamzc7h5/77.A.mp4/file",
+ "length" : "20;22"
+}
+     ,
+{
+"vol"  : "အပိုင္း(77.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(77.B)",
+"cover" : "https://1.bp.blogspot.com/-uHOa0utx0WY/XepYoJAwFRI/AAAAAAAADgc/Od8D-RILa8gmBNXiWTvwkv2kOtxqZHoZACLcBGAsYHQ/s320/77.jpg",
+"video" : "https://www.mediafire.com/file/vqnm0ox8n4xo8pg/77.B.mp4/file",
+ "length" : "22;08"
+}
 ]
 }
