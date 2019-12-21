@@ -4659,5 +4659,21 @@
 "video" : "https://www.mediafire.com/file/zvuzhdy0wa54r54/14.B.mp4/file",
 "length" : "23;45"
 }
+     ,
+{
+"vol"  : "အပိုင္း(86.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(86.A)",
+"cover" : "https://1.bp.blogspot.com/-tH5aG_JiWRI/Xfeb7I1vhbI/AAAAAAAADwA/Kj1Ehv_aWJA2psVABuffki9fdEPFlNL9gCLcBGAsYHQ/s320/86.jpg",
+"video" : "https://www.mediafire.com/file/4aenkk1bae24nin/86.A.mp4/file",
+ "length" : "19;40"
+}
+     ,
+{
+"vol"  : "အပိုင္း(86.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(86.B)",
+"cover" : "https://1.bp.blogspot.com/-tH5aG_JiWRI/Xfeb7I1vhbI/AAAAAAAADwA/Kj1Ehv_aWJA2psVABuffki9fdEPFlNL9gCLcBGAsYHQ/s320/86.jpg",
+"video" : "https://www.mediafire.com/file/x5htptd4flsctby/86.B.mp4/file",
+ "length" : "21;11"
+}
 ]
 }
