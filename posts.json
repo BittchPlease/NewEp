@@ -4987,14 +4987,6 @@
 "video" : "578276273030024",
 "length" : "23;39"
 }
-     ,
-{
-"vol"  : "အပိုင္း(92) ျမန္မာစာတန္းထိုးပါသည္။",
-"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(92)",
-"cover" : "https://1.bp.blogspot.com/-LNPIJWW8mEQ/XgZJLLMfknI/AAAAAAAAD9Q/dvFMeGZ-poYzQ6nhwnULxhnadzYStNSYwCLcBGAsYHQ/s320/92.jpg",
-"video" : "150042706433677",
- "length" : "39;58"
-}
 ,
 {
 "vol"  : "အပိုင္း(47.A) ျမန္မာစာတန္းထိုးပါသည္။",
@@ -5026,6 +5018,22 @@
 "cover" : "https://1.bp.blogspot.com/-XGoWH9VDUEg/XgZEP-nvE6I/AAAAAAAAD7g/Nt9H4jwCmWY8LlfVU0kq8nwq0ReP1y6lACLcBGAsYHQ/s320/22.jpg",
 "video" : "https://www.mediafire.com/file/6lhi18jcn5x4dnl/22.B.mp4/file",
 "length" : "21;27"
+}
+     ,
+{
+"vol"  : "အပိုင္း(92.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(92.A)",
+"cover" : "https://1.bp.blogspot.com/-LNPIJWW8mEQ/XgZJLLMfknI/AAAAAAAAD9Q/dvFMeGZ-poYzQ6nhwnULxhnadzYStNSYwCLcBGAsYHQ/s320/92.jpg",
+"video" : "https://www.mediafire.com/file/dkomwimdz5chl1w/92.A.mp4/file",
+ "length" : "20;55"
+}
+     ,
+{
+"vol"  : "အပိုင္း(92.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(92.B)",
+"cover" : "https://1.bp.blogspot.com/-LNPIJWW8mEQ/XgZJLLMfknI/AAAAAAAAD9Q/dvFMeGZ-poYzQ6nhwnULxhnadzYStNSYwCLcBGAsYHQ/s320/92.jpg",
+"video" : "https://www.mediafire.com/file/jye6vytmpz3pfym/92.B.mp4/file",
+ "length" : "21;44"
 }
 ]
 }
