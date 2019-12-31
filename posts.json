@@ -5203,5 +5203,21 @@
 "video" : "https://www.mediafire.com/file/18bjf2do2b716qa/50.B.mp4/file",
 "length" : "22;25"
 }
+     ,
+{
+"vol"  : "အပိုင္း(96.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(96.A)",
+"cover" : "https://1.bp.blogspot.com/-VjK2Zy1FfE0/XgZJNCNQOpI/AAAAAAAAD9g/YiwsPfCK16ErY2rt1Lth4ziWnlb_1UmpgCLcBGAsYHQ/s320/96.jpg",
+"video" : "https://www.mediafire.com/file/2h961ly8uejx6ws/96.A.mp4/file",
+ "length" : "21;16"
+}
+     ,
+{
+"vol"  : "အပိုင္း(96.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(96.B)",
+"cover" : "https://1.bp.blogspot.com/-VjK2Zy1FfE0/XgZJNCNQOpI/AAAAAAAAD9g/YiwsPfCK16ErY2rt1Lth4ziWnlb_1UmpgCLcBGAsYHQ/s320/96.jpg",
+"video" : "https://www.mediafire.com/file/mrqsjvbtylap153/96.B.mp4/file",
+ "length" : "21;38"
+}
 ]
 }
