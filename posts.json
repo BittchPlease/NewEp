@@ -5635,5 +5635,21 @@
 "video" : "https://www.mediafire.com/file/29graevodf787p4/55.mp4/file",
 "length" : "42;39"
 }
+,
+{
+"vol"  : "အပိုင္း(32.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "မဟာကာလီ အပိုင္း(32.A)",
+"cover" : "https://1.bp.blogspot.com/-0vz-XX9U3ag/XgZEU-VyjJI/AAAAAAAAD8E/qiWWDrB5bHsu26v1YTeIVsA9jrSzSK5FgCLcBGAsYHQ/s320/32.jpg",
+"video" : "http://www.mediafire.com/file/i5pitn16lo2rjwk/32.A.mp4/file",
+"length" : "28;04"
+}
+,
+{
+"vol"  : "အပိုင္း(32.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "မဟာကာလီ အပိုင္း(32.B)",
+"cover" : "https://1.bp.blogspot.com/-0vz-XX9U3ag/XgZEU-VyjJI/AAAAAAAAD8E/qiWWDrB5bHsu26v1YTeIVsA9jrSzSK5FgCLcBGAsYHQ/s320/32.jpg",
+"video" : "http://www.mediafire.com/file/4c2tf55rxmvvdcp/32.B.mp4/file",
+"length" : "25;29"
+}
 ]
 }
