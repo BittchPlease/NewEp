@@ -6115,5 +6115,21 @@
 "video" : "http://www.mediafire.com/file/3xp0y30evykslk5/40.B.mp4/file",
 "length" : "24;38"
 }
+     ,
+{
+"vol"  : "အပိုင္း(113.A) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(113.A)",
+"cover" : "https://1.bp.blogspot.com/-TeCNDUJm_SI/XZBT5wbMsOI/AAAAAAAAB9o/hCbOAahpxDgE6tWJJcLb8DbLOPEET3xNgCLcBGAsYHQ/s500/cover.jpg",
+"video" : "https://www.mediafire.com/file/5rgxl5jzfywt2ii/113.A.mp4/file",
+ "length" : "22;28"
+}
+     ,
+{
+"vol"  : "အပိုင္း(113.B) ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(113.B)",
+"cover" : "https://1.bp.blogspot.com/-TeCNDUJm_SI/XZBT5wbMsOI/AAAAAAAAB9o/hCbOAahpxDgE6tWJJcLb8DbLOPEET3xNgCLcBGAsYHQ/s500/cover.jpg",
+"video" : "https://www.mediafire.com/file/v54nngnt7iv8hxg/113.B.mp4/file",
+ "length" : "22;15"
+}
 ]
 }
